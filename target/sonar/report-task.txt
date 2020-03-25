@@ -1,0 +1,7 @@
+organization=vkurre123
+projectKey=com.venu:MathOperation
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.6109
+dashboardUrl=https://sonarcloud.io/dashboard?id=com.venu%3AMathOperation
+ceTaskId=AXEQP8blZHRcbUQBgEml
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXEQP8blZHRcbUQBgEml
